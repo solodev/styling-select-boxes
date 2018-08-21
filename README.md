@@ -1,5 +1,6 @@
 # styling-select-boxes
-Styling select boxes to match your brand is one of those details that creates a comprehensive look. 
+Your select boxes can be an incredibly functional element on your website. Here's how to style it to match the rest of your website's branding elements.
+Default select boxes are pretty minimal. They can be one of the most functional parts of a website. Select boxes give your website visitors a better way to narrow down large quantities of information and direct them to where they need to go. 
   		  
 ## Tutorial		  
 For detailed instruction's, view Solodev's [How to Style Your Select Boxes](https://www.solodev.com/blog/web-design/how-to-style-your-select-boxes.stml) article.
